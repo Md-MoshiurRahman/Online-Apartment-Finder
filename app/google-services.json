@@ -1,0 +1,80 @@
+{
+  "project_info": {
+    "project_number": "158026407103",
+    "firebase_url": "https://apartment-finder-ad90f.firebaseio.com",
+    "project_id": "apartment-finder-ad90f",
+    "storage_bucket": "apartment-finder-ad90f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158026407103:android:4605d2cc51c9c717",
+        "android_client_info": {
+          "package_name": "com.example.apartment_finder2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158026407103-aue9rv43muibd3rpcriqj8k15a267n44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apartment_finder2",
+            "certificate_hash": "c4573843683a57e9fa94dec1303cb05cb49ada78"
+          }
+        },
+        {
+          "client_id": "158026407103-8m18grrbpi57s7oqi670g8a7j0183i9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apartment_finder2",
+            "certificate_hash": "fea42a11a35ffc5a2583c7988336e60141a92c1c"
+          }
+        },
+        {
+          "client_id": "158026407103-1sgmt5d947vknldatqleickhe8ipmcqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apartment_finder2",
+            "certificate_hash": "28a9274a45bfbfa58eceaee5adda8e4f77339d89"
+          }
+        },
+        {
+          "client_id": "158026407103-1d7mir1iaf8u29qdf9gm21j2ft5embdf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apartment_finder2",
+            "certificate_hash": "d647aaa42a4b29497b1c543521cc754fc8d4a679"
+          }
+        },
+        {
+          "client_id": "158026407103-2onq1qte161isok9gfdp83fbs03722t2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apartment_finder2",
+            "certificate_hash": "cd3ecb0f6df0741b9482a684c21fda8c91ba1156"
+          }
+        },
+        {
+          "client_id": "158026407103-d5atclkouh6sieb6bisud8ujuljbhmi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9lA64G2gwAHLyaAB1QnNIHSRUqQXThjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158026407103-d5atclkouh6sieb6bisud8ujuljbhmi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
