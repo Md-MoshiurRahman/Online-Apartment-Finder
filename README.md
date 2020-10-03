@@ -15,4 +15,4 @@ This is an android application where anyone can easily find a suitable place for
 
 ## How it works
 Please have a look at the user guide-
-![alt text](https://github.com/RahmanFiros/Online-Apartment-Finder/blob/master/User%20Guide.pdf)
+[embed]https://github.com/RahmanFiros/Online-Apartment-Finder/blob/master/User%20Guide.pdf[/embed]
