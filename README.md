@@ -16,4 +16,4 @@ This is an android application where anyone can easily find a suitable place for
 ## How it works
 Please have a look at the user guide-
 
-[Intro.pdf](https://github.com/RahmanFiros/Online-Apartment-Finder/blob/master/User%20Guide.pdf)
+[User Guide.pdf](https://github.com/RahmanFiros/Online-Apartment-Finder/blob/master/User%20Guide.pdf)
