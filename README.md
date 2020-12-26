@@ -1,5 +1,5 @@
 ## Online-Apartment-Finder
-This is an android application where anyone can easily find a suitable place for living. One can post for advertisement of his/her aparment(s) also.
+This is an android application where anyone can easily find a suitable place for living. One can post for advertisement of his/her apartment(s) also.
 
 ## Tools and Frameworks
 1. Used Android Studio for frontend design
